@@ -1,0 +1,17 @@
+{
+  "id": "Fiber_Optic/AFBR-1624Z:AFBR-1624Z",
+  "name": "AFBR-1624Z",
+  "library": "Fiber_Optic",
+  "file": "Fiber_Optic.kicad_symdir/AFBR-1624Z.kicad_sym",
+  "description": "Versatile Link Fiber Optic Transmitter",
+  "datasheet": "https://docs.broadcom.com/docs/AV02-4369EN",
+  "keywords": "Fiber optic transmitter",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-fiber-optic@master/parts/AFBR-1624Z/",
+  "part_path": "parts/AFBR-1624Z",
+  "symbol_file": "parts/AFBR-1624Z/AFBR-1624Z.kicad_sym",
+  "source_library": "Fiber_Optic.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:46.204Z"
+}
